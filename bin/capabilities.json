@@ -1,0 +1,8 @@
+{
+    "platformName":"Android",
+    "platformVersion":"7.1.1",
+    "deviceName":"Galaxy A8",
+    "automationName":"UIAutomator2",
+    "appActivity":".activity.RootActivity",
+    "appPackage":"com.lunabee.bbhotel"
+}
